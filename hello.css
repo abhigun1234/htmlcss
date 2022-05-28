@@ -1,0 +1,13 @@
+.lbl{
+
+    background-color:  aquamarine;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+  .table-header{
+      background-color: blanchedalmond;
+  }
+  .table-division{
+      background-color: aqua;
+  }
