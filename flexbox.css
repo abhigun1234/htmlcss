@@ -1,0 +1,48 @@
+#one{
+
+    background-color: green;
+    width:200px;
+    height: 20px;
+    margin: 10px;
+}
+#two{
+
+    background-color: blue;
+    width:200px;
+    height: 20px;
+    margin: 10px;
+}
+#three{
+
+    background-color: pink;
+    width:200px;
+    height: 20px;
+    margin: 10px;
+}
+#four{
+
+    background-color: brown;
+    width:200px;
+    height: 20px;
+    margin: 10px;
+}
+#five{
+
+    background-color: yellow;
+    width:200px;
+    height: 20px;
+    margin: 10px;
+}
+#six{
+
+    background-color: aquamarine;
+    width:200px;
+    height: 20px;
+    margin: 10px;
+}
+.container{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
