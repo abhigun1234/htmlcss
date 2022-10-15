@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.item1{
+    background-color: green;
+    width: 200px;
+    height: 50px;
+}
+.item2{
+    background-color: blue;
+    width: 200px;
+    height: 50px;
+}
+.item3{
+    background-color: gold;
+    width: 200px;
+    height: 50px;
+}
+.item4{
+    background-color:aqua;
+    width: 200px;
+    height: 50px;
+}
+.item5{
+    background-color:khaki;
+    width: 200px;
+    height: 50px;
+}
+.item6{
+    background-color:honeydew;
+    width: 200px;
+    height: 50px;
+}
